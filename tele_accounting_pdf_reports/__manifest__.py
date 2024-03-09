@@ -42,7 +42,7 @@
         'report/report_journal_entries.xml',
     ],
     'pre_init_hook': '_pre_init_clean_m2m_models',
-    'images': ['static/description/banner.gif'],
+    'images': ['static/description/banner.jpg'],
 }
 
 # todo nys settings page
