@@ -21,7 +21,7 @@
                              'data/backup_ignite_crone.xml',
                              'views/menuitems.xml',
                             ],
-  "images"               :  ['static/description/Banner.jpg'],
+  "images"               :  ['static/description/banner.jpg'],
   "application"          :  True,
   "installable"          :  True,
   "currency"             :  "USD",
