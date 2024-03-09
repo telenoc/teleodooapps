@@ -2,6 +2,7 @@
     "name": "Tele Row Number in tree/list view",
     "version": "17.0.1.0.0",
     "summary": "Show row number in tree/list view.",
+    "author" :  "TeleNoc",
     "category": "Other",
     "depends": ["web"],
     "data": [],
