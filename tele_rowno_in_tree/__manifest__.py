@@ -12,7 +12,7 @@
             "tele_rowno_in_tree/static/src/js/list_renderer.esm.js",
         ]
     },
-    "images": ["static/description/banner.png"],
+    "images": ["static/description/banner.jpg"],
     "license": "LGPL-3",
     "installable": True,
     "application": True,
