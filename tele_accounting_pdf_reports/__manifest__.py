@@ -1,12 +1,12 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Odoo 17 Accounting Financial Reports',
+    'name': 'Tele Odoo 17 Accounting Financial Reports',
     'version': '17.0.1.0',
     'category': 'Invoicing Management',
     'description': 'Accounting Reports For Odoo 17, Accounting Financial Reports, '
-                   'Odoo 17 Financial Reports',
-    'summary': 'Accounting Reports For Odoo 17',
+                   'Tele Odoo 17 Financial Reports',
+    'summary': 'Tele Accounting Reports For Odoo 17',
     'sequence': '1',
     'author': 'TeleNoc',
     'license': 'LGPL-3',
