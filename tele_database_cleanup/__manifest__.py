@@ -2,7 +2,7 @@
 {
     "name": "Tele Database cleanup",
     "version": "17.0.1.0.0",
-    "author": "Therp BV,Odoo Community Association (OCA)",
+    "author": "TeleNoc",
     "website": "https://telenoc.org",
     "depends": ["base"],
     "license": "AGPL-3",
