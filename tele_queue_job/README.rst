@@ -615,9 +615,6 @@ Next
    delayed, and configured using ``queue.job.function`` records
 -  [MIGRATION] from 13.0 branched at rev. e24ff4b
 
-Credits
-=======
-
 Authors
 -------
 
@@ -631,11 +628,3 @@ This module is maintained by the TeleNoc.
 .. image:: https://telenoc.org/wp-content/uploads/2021/06/telenoc-logo.png
    :alt: Odoo Community Association
    :target: https://odoo-community.org
-
-OCA, or the Odoo Community Association, is a nonprofit organization whose
-mission is to support the collaborative development of Odoo features and
-promote its widespread use.
-
-|maintainer-guewen|
-
-You are welcome to contribute. To learn how please visit https://odoo-community.org/page/Contribute.
